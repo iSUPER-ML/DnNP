@@ -35,7 +35,7 @@ If you find this work useful, please cite:
 ```bibtex
 @inproceedings{tohidian2026dnnp,
   title     = {DnNP: Denoising Input Uncertainty in Neural Processes},
-  author    = {Fatemeh Tohidian, Chengzhi Shi, Soomi Lee, Matthew Elia, Amy Mueller, Stratis Ioannidis Jennifer Dy},
+  author    = {Fatemeh Tohidian, Chengzhi Shi, Soomi Lee, Matthew Elia, Amy Mueller, Stratis Ioannidis, Jennifer Dy},
   booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
   year      = {2026}
 }
