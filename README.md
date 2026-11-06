@@ -23,8 +23,8 @@ We evaluate DnNP on four datasets:
 |---|---|---|
 | **Toy (synthetic)** | 1D regression | Functions sampled with controlled noise added to the input coordinates. |
 | **MNIST** | Image completion | Pixel-coordinate noise added to context points for 2D image completion. |
-| **iSUPER** | Air quality | Hyperlocal air quality measurements from a dense low-cost sensor network. [Access the data here](ISUPER_DATA_LINK). |
-| **NOAA** | Air Pressure | Station-based meteorological observations from NOAA. [Source](NOAA_DATA_LINK) |
+| **iSUPER** | Air quality | Hyperlocal air quality measurements from a dense low-cost sensor network. [Access the data here](https://hdl.handle.net/2047/D20881761). |
+| **NOAA** | Pressure | Daily pressure, temperature, and relative humidity from 29 NOAA weather stations in California (Q1 2026), obtained via the [Meteostat](https://meteostat.net) library. [Source](https://www.ncei.noaa.gov/products/land-based-station/integrated-surface-database) |
 
 <img width="1716" height="1106" alt="image" src="https://github.com/user-attachments/assets/dac5cc91-c4fc-448e-9b2d-3dd5da351219" />
 
@@ -35,7 +35,7 @@ If you find this work useful, please cite:
 ```bibtex
 @inproceedings{tohidian2026dnnp,
   title     = {DnNP: Denoising Input Uncertainty in Neural Processes},
-  author    = {Fatemeh Tohidian, Chengzhi Shi, Soomi Lee, Matthew Elia, Amy Mueller, Stratis Ioannidis, Jennifer Dy},
+  author    =   author    = {Tohidian, Fatemeh and Shi, Chengzhi and Lee, Soomi and Elia, Matthew and Mueller, Amy and Ioannidis, Stratis and Dy, Jennifer},
   booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
   year      = {2026}
 }
